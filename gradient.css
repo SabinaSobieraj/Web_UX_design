@@ -1,0 +1,106 @@
+/* boxy */
+.wrapper {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .wrapper h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 2.2rem;
+  }
+  
+  .wrapper p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem;
+    padding: 1em;
+    padding-bottom: 2em;
+    margin-bottom: 4rem;
+  }
+  
+  .button__one {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1.5rem;
+  }
+
+  
+  .button__one:hover {
+    text-decoration: none;
+    background-color: white;
+    color: grey;
+  }
+  
+  .one {
+      box-sizing: border-box;
+    width: 90vw;
+    height: 450px;
+    background: rgb(223,169,115);
+    background: linear-gradient(0deg, rgba(223,169,115,1) 3%, rgba(247,183,118,1) 64%);
+    color: white;
+    text-align: center;
+    -webkit-box-shadow: -13px 106px 239px -33px rgba(251,186,119,1);
+  -moz-box-shadow: -13px 106px 239px -33px rgba(251,186,119,1);
+  box-shadow: -13px 106px 239px -33px rgba(251,186,119,1);
+
+  }
+
+  .two {  
+    box-sizing: border-box;   
+  width: 90vw;
+    height: 450px;
+    background: rgb(39,163,191);
+  background: linear-gradient(0deg, rgba(39,163,191,1) 7%, rgba(55,225,224,1) 96%);
+    color: white;
+    text-align: center;
+
+  }
+  .three {  
+    box-sizing: border-box;   
+    width: 90vw;
+    height: 450px;
+    background: rgb(74,59,107);
+  background: linear-gradient(0deg, rgba(74,59,107,1) 3%, rgba(101,79,153,1) 64%);
+    color: white;
+    text-align: center; 
+
+  }
+  .four {
+    width: 90vw;
+    height: 450px;
+    background: rgb(16,102,198);
+  background: linear-gradient(0deg, rgba(16,102,198,1) 20%, rgba(60,129,208,1) 64%);
+    color: white;
+    text-align: center;
+  }
+
+  .five {
+    width: 90vw;
+    height: 450px;
+    background: rgb(96,89,218);
+    background: linear-gradient(0deg, rgba(96,89,218,1) 14%, rgba(154,151,241,1) 80%);
+    color: white;
+    text-align: center;
+
+  }
+  .six {  
+    width: 90vw;  
+    height: 450px;
+    background: rgb(167,74,75);
+  background: linear-gradient(0deg, rgba(167,74,75,1) 11%, rgba(241,119,126,1) 48%);
+    color: white;
+    text-align: center;
+
+  }
+  
+  .button__one {
+    border: 2px solid white;
+    border-radius: 25px;
+    color: white;
+    padding: 10px 30px;
+  }
+  
+
+  /* boxy */
